@@ -1,0 +1,15 @@
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\bin\Debug\net7.0\task_27.exe
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\bin\Debug\net7.0\task_27.deps.json
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\bin\Debug\net7.0\task_27.runtimeconfig.json
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\bin\Debug\net7.0\task_27.dll
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\bin\Debug\net7.0\task_27.pdb
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.csproj.AssemblyReference.cache
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.AssemblyInfoInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.AssemblyInfo.cs
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.csproj.CoreCompileInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.dll
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\refint\task_27.dll
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.pdb
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\task_27.genruntimeconfig.cache
+C:\Моя папка\Обучение програмированию\Lesson_4_functions\Home_Work\task_27\obj\Debug\net7.0\ref\task_27.dll
